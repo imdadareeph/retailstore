@@ -39,3 +39,9 @@ CREATE TABLE `customer_details` (
   ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/3.png "preview3")
   ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/4.png "preview4")
   ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/5.png "preview5")
+
+  ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/6.png "preview6")
+  ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/7.png "preview7")
+  ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/8.png "preview8")
+  ![alt text](https://raw.githubusercontent.com/imdadareeph/retailstore/master/src/main/resources/static/screenshots/9.png "preview9")
+
